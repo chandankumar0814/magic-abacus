@@ -2,7 +2,7 @@
   "name": "Magic Abacus – BOMIS Purnea",
   "short_name": "Magic Abacus",
   "description": "Interactive Abacus for Birla Open Minds International School, Purnea",
-  "start_url": "./abacus.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
@@ -24,4 +24,5 @@
       "purpose": "any maskable"
     }
   ]
+
 }
